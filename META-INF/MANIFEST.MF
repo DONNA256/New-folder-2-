@@ -1,0 +1,213 @@
+Manifest-Version: 1.0
+Created-By: 1.7.0_51 (Oracle Corporation)
+
+Name: assets/533A1EBA-0945-4EF0-BDEF-0B7534A9C87A.png
+SHA1-Digest: LOM9CztF6Y6tVadwqZiQZphutuI=
+
+Name: res/drawable/ic_menu_preferences.png
+SHA1-Digest: WbBtrtT3S3sA3uoTOpPeAine5Vw=
+
+Name: res/drawable/cover.png
+SHA1-Digest: uX/plksu2HgpI1DEsoZdnW4afn4=
+
+Name: res/drawable/list_bookmark_disable.png
+SHA1-Digest: MvRwz2KtjuE4wCX6g+YOgB4zYUE=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: Wn1x5sUSBuCvUKq/ewvwsvphw1A=
+
+Name: res/drawable/search.png
+SHA1-Digest: DhDjdZrz9ii9vL5bzdWmXgr/fuk=
+
+Name: res/layout/book_title.xml
+SHA1-Digest: KVAfKIvpcDOeVfsrjILzlctAfhA=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: tspra0a8/ucKzGA9Cr6PJHebQyw=
+
+Name: res/drawable/page_right_shadow.png
+SHA1-Digest: k9o+Rmv1OD4JqSuyitUsJ3/86yM=
+
+Name: assets/96A14ACE-549E-4C19-9DEC-3917FEF2006C.png
+SHA1-Digest: 1vvajrIcy6u6aqvuB7DVn+PRA5Q=
+
+Name: res/drawable/cover_left_shadow.png
+SHA1-Digest: XNYfUkZHwJgFeH8br7hk5XMWTCs=
+
+Name: assets/6E978108-E35F-436E-B494-E214DA93E4D6.png
+SHA1-Digest: ZuvgS1sF+oOcAUgbdeDJcPS9oxQ=
+
+Name: res/drawable/cover_right_shadow.png
+SHA1-Digest: eNo5SAM0ISSRcOmmnjbND6GTK7k=
+
+Name: res/layout/bookmark_item.xml
+SHA1-Digest: 0X51JXXdANE5l04aqftO8hXfsow=
+
+Name: res/drawable/pagebd.png
+SHA1-Digest: DJPLUTm9oGHFl48nF2GiRtDFQK8=
+
+Name: res/drawable/unchecked.png
+SHA1-Digest: 9ah6nHYekkjpb6naVggM7++znhg=
+
+Name: res/drawable/pagebg.png
+SHA1-Digest: FKtyiIE+R6fs7PJZ6kPk+Icy6MA=
+
+Name: res/layout/book_title_item.xml
+SHA1-Digest: UKpcRQYAKkKw0OqZLfyjhLk+gh8=
+
+Name: assets/05DCEF07-5BBD-40F7-97CB-1448C585ECDB.png
+SHA1-Digest: Q6MHVpjY0DOqKRbsB/0M3zBZFkU=
+
+Name: assets/2762408F-1952-4D16-B008-700E14428029.png
+SHA1-Digest: 1vvajrIcy6u6aqvuB7DVn+PRA5Q=
+
+Name: res/layout/search_item.xml
+SHA1-Digest: rg1fzrz4UtEv4ToFoeCA2ZR0FuI=
+
+Name: res/drawable/ic_menu_toc.png
+SHA1-Digest: 7z1w8fNBck8HfNG+rJmehQJQRpQ=
+
+Name: res/layout/book_matter_view.xml
+SHA1-Digest: +J1IW0u13tgLMK2k/KCTnDgIcfs=
+
+Name: res/layout/config_item.xml
+SHA1-Digest: TY3vhlSpjm9ftzQrAGhi4XxZhQ0=
+
+Name: res/drawable/bookmarklogo.png
+SHA1-Digest: Z+dldUUtGJFP53E7heT79VLbxvU=
+
+Name: res/drawable/search_bg.png
+SHA1-Digest: Poxyedm7OUIZmDQn1b0WpgZ9Le4=
+
+Name: assets/international.xml
+SHA1-Digest: FQdnvCFfmJvm0GObwhZ8Rllrd8A=
+
+Name: res/drawable/previous.png
+SHA1-Digest: 7Ssy3YMTsLpIgY+rdt9gWI7AN7Q=
+
+Name: res/drawable/author_content_bg.jpg
+SHA1-Digest: lOjvsADS2PGdu3Z5jvuEN1i371U=
+
+Name: assets/configs.xml
+SHA1-Digest: 82Xi74pEEEEjUuh7XL/17DV7vM0=
+
+Name: res/layout/config_panel.xml
+SHA1-Digest: TY3vhlSpjm9ftzQrAGhi4XxZhQ0=
+
+Name: res/drawable/ic_menu_day.png
+SHA1-Digest: IHSUAU9gOCszCJ9uFu2kcFEMyeU=
+
+Name: res/drawable/checked.png
+SHA1-Digest: Nihq2uPVq+How5IZLpKLZVEJ0c8=
+
+Name: assets/699FB2C7-15C6-4D21-9081-7304823DE5F8.png
+SHA1-Digest: ed25Sb+0VSb0ujw6ix5pFUZyx+Q=
+
+Name: res/drawable/list_bookmark.png
+SHA1-Digest: i7nlFJtoyG5sbXzUBwXHfuAXxX8=
+
+Name: res/layout/config.xml
+SHA1-Digest: I8+BVEUDPSFlh+kZ6Cffw2GUK5k=
+
+Name: res/drawable/addbookmark.png
+SHA1-Digest: BwBaLlS8o4ddn/UGg1m5fPIGujw=
+
+Name: res/drawable/cancel.png
+SHA1-Digest: qw/3Ks2pEh9LqwfCokgDXEJOx9U=
+
+Name: res/drawable/ic_menu_previous.png
+SHA1-Digest: 23YJPyUt1lSC3ajUOq7eUMNwPPA=
+
+Name: res/drawable/unexpand.png
+SHA1-Digest: n6CnHew5FCRD4qSJGFxQmJcBlg4=
+
+Name: res/drawable/add_bookmark.png
+SHA1-Digest: DRrYWzOkyyL1PZaTJEJg/3GKGyg=
+
+Name: resources.arsc
+SHA1-Digest: e21/uPuz8sD3/b/ZEKW6H4k9aTc=
+
+Name: res/drawable/menu_icon.png
+SHA1-Digest: 1v1xIHG7D9gTM8SQ5XSj9T3EPM4=
+
+Name: res/drawable/load.png
+SHA1-Digest: d4E2DrHUNpI0XmA10oV8TXO0fsE=
+
+Name: assets/563CB2F3-CD36-439E-A649-07D0A82C5DE5.png
+SHA1-Digest: y84/EacY2fczFduXXL/4oDZ5giQ=
+
+Name: res/drawable/catalog_bg.jpg
+SHA1-Digest: MQGUZhV7yEDpSVgsMpOrckhdxgw=
+
+Name: res/drawable/dosearch.png
+SHA1-Digest: vnJHXQq+KhexBEPN1HeosKngOlQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: BRcZKGV4r0Q5woz69k/uC3IcPlA=
+
+Name: res/drawable/bookmark.png
+SHA1-Digest: +K4oEXoqSZK0dzcehGG7YY1n0M4=
+
+Name: res/layout/book_info.xml
+SHA1-Digest: fzzFR3zmWlL+dTqGLMEeddtth9A=
+
+Name: res/drawable/ic_menu_next.png
+SHA1-Digest: 1F6M5k/bj3+M0ufpz5CtKXXPP08=
+
+Name: res/layout/bookmark.xml
+SHA1-Digest: fWsXt3uhzisY1NbCCjazjVy2YGc=
+
+Name: res/drawable/expand.png
+SHA1-Digest: xZIQmNXYI6LHNlaK7MourhVoVEU=
+
+Name: res/drawable/author_bottom_bg.jpg
+SHA1-Digest: ++0WqdjLzzkZRoFKrC1zITjhet4=
+
+Name: res/layout/search.xml
+SHA1-Digest: 49L+z/m3y7YcFkoxiq2g9CVBmFA=
+
+Name: res/drawable/page_left_shadow.png
+SHA1-Digest: Si0/ifacDJSDmRiY1XlKGwEAeFg=
+
+Name: res/drawable/author_title_bg.jpg
+SHA1-Digest: an6pO9tg3MCIVNuCC99trwswbdM=
+
+Name: res/drawable/delete.png
+SHA1-Digest: Y9AI6qbQC2V6sup+0v9yRMCrFDk=
+
+Name: res/drawable/menu_blank.png
+SHA1-Digest: 2Yzk3JmCVPseDFQVz0gSw4xgiDk=
+
+Name: assets/DE63D5A3-0F26-44D6-9AD4-D1640C32043A.png
+SHA1-Digest: KBIc6JW/SdQwFn+byYa8b1byUug=
+
+Name: assets/chapters.xml
+SHA1-Digest: H1Z5VYfosOjdjoWxbfjPUtZUG6U=
+
+Name: classes.dex
+SHA1-Digest: YAlS0FI0/c1DSns/lxZNq2cnCaA=
+
+Name: assets/14B31803-72B5-48ED-AE8E-845E1F78F8FA.png
+SHA1-Digest: 7s1CqQRWXVVdd965K43Jt+IrYpM=
+
+Name: res/layout/author_item.xml
+SHA1-Digest: 3W0Xybi/eLIPkUkyNyMI7ji9wJU=
+
+Name: res/drawable/ic_menu_night.png
+SHA1-Digest: hmbStr0NjGj2V0WD1bZubAiwXRw=
+
+Name: res/drawable/ic_menu_bookinfo.png
+SHA1-Digest: POpXS5+4juNG3Jmg7gsFgflyvdk=
+
+Name: assets/426F4148-DE96-489B-BEED-32601981CBC3.png
+SHA1-Digest: XKcuLMLtDLoEw3TAbGjQvk/TxNg=
+
+Name: assets/220CAB48-F7B9-4E85-8C22-BE337B6B8F14.txt
+SHA1-Digest: 6egbJrtdF1zBIU2j6viTyCk5ego=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: ySqgLW1BpxzFj5jaKOaPWEBCoFQ=
+
+Name: res/drawable/search_disable.png
+SHA1-Digest: QYbYuy8v1QWbRq4tR+ue6SEzsoc=
+
